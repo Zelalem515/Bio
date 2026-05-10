@@ -25,4 +25,4 @@ My goal is to leverage my technical expertise in full-stack development , while 
 📫 **Let's Connect:**
 - **LinkedIn:** https://www.linkedin.com/in/zelalem-birhan-0590853b3
 - **Email:** zedo1940@gmail.com
-- **Location:** Ethiopia
+- **Location:** Debre Tabor Ethiopia
