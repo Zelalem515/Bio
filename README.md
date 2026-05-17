@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | IT Student @ Debre Tabor University</h3>
 
 <p align="center">
-  I am a top-ranked Information Technology student (Current GPA: 3.95) and an aspiring Full-Stack Developer. I'm deeply passionate about building innovative, secure, and user-centric digital solutions! 🚀
+  I am a top-ranked Information Technology student (Current GPA: 3.96) and an aspiring Full-Stack Developer. I'm deeply passionate about building innovative, secure, and user-centric digital solutions! 🚀
 </p>
 
 ---
@@ -39,9 +39,11 @@
 
 ### 🚀 Featured Projects & Contributions
 
-* 👨‍💻 **Full-Stack Portfolio:** Developing a smart personal portfolio using the **MERN** stack to showcase my growing skill set.
-* 📚 **E-Learning Platform:** Building a digital learning system utilizing the **PERN** stack.
-* 🌍 **Digital Training:** Passionate about spreading digital literacy and AI awareness in my community.
+* 🛍️ **Debre Tabor Gebeya:** A comprehensive e-commerce platform linking local sellers with customers.
+* 🎓 **DTU E-Learning Website:** An educational platform designed for Debre Tabor University.
+* 📝 **Exam Management System:** A robust system for efficiently managing academic examinations.
+* ⚖️ **E-BidSystem:** A secure digital platform facilitating modern bidding and auctions.
+* 📚 **Learning Management systems:** Developing specialized digital training platforms for academic use.
 
 ---
 
@@ -58,6 +60,9 @@ My immediate goal is to become a highly proficient, modern full-stack developer.
   </a>
   <a href="mailto:zedo1940@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/zedo1940" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
