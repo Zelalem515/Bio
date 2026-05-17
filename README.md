@@ -32,7 +32,7 @@
 ---
 
 ### 🎓 Academic Excellence
-* 🏆 **Class Rank:** Consistently ranked **#1** in my IT class with a **3.95 GPA**.
+* 🏆 **Class Rank:** Consistently ranked **#1** in my IT class with a **3.96 GPA**.
 * 🔐 **Interests:** Deeply interested in Cybersecurity and National Digital Infrastructure.
 
 ---
@@ -42,8 +42,7 @@
 * 🛍️ **Debre Tabor Gebeya:** A comprehensive e-commerce platform linking local sellers with customers.
 * 🎓 **DTU E-Learning Website:** An educational platform designed for Debre Tabor University.
 * 📝 **Exam Management System:** A robust system for efficiently managing academic examinations.
-* ⚖️ **E-BidSystem:** A secure digital platform facilitating modern bidding and auctions.
-* 📚 **Learning Management systems:** Developing specialized digital training platforms for academic use.
+* 📚 **Simple Php Learning Management systems:** Developing specialized digital training platforms for academic use.
 
 ---
 
